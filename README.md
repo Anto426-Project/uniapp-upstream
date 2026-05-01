@@ -30,9 +30,9 @@ Scopri UniApp, l’app non ufficiale per gli studenti dell’Università degli S
 
 ## Security Scan
 Quest'app e' stata scansionata per potenziali minacce.
-- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/MmNkNDJjYjI1ZjlkNmE1NTQyMjJjOTM1ODNlMjA4ZTg6MTc3NjkzNDE3Ng==/detection>)
+- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/MmVlZDM1ZDMxY2MyZTA4ZDAzOWZiYjg5MjhmZTVmZTE6MTc3NzY3MDI1Mw==/detection>)
 
-[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/MmNkNDJjYjI1ZjlkNmE1NTQyMjJjOTM1ODNlMjA4ZTg6MTc3NjkzNDE3Ng==/detection>)
+[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/MmVlZDM1ZDMxY2MyZTA4ZDAzOWZiYjg5MjhmZTVmZTE6MTc3NzY3MDI1Mw==/detection>)
 
 
 ## Screenshot
@@ -65,17 +65,17 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | --- | --- |
 | App | UniApp |
 | Repository | `Anto426-Project/UniappUpstream` |
-| Versione corrente | `1.8.0-beta` |
+| Versione corrente | `1.8.1-beta` |
 | Canale release | `beta` |
-| Version code | `190` |
-| Pubblicata il | `2026-04-23` |
-| Versione minima supportata | `1.8.0-beta` |
+| Version code | `191` |
+| Pubblicata il | `2026-05-01` |
+| Versione minima supportata | `1.8.1-beta` |
 | Aggiornamento obbligatorio | `true` |
 | App abilitata | `true` |
 | Package name | `com.anto426.uniapp` |
 | Min SDK | `29` |
 | File APK | `src/release/beta/androidApp-universal-release.apk` |
-| Dimensione APK | `99.8 MB` |
+| Dimensione APK | `99.9 MB` |
 
 ## Link Rapidi
 
@@ -88,8 +88,18 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 
 ## Note Di Rilascio
 
-Changelog 15 Apr 2026:
-- Aggiornamento automatico certificati TLS.
+Changelog 01 May 2026:
+- Aggiunta una mappa integrata per visualizzare le fermate geolocalizzate.
+- I punti sulla mappa ora sono numerati secondo l’ordine presente nel JSON.
+- I punti vicini vengono raggruppati automaticamente quando la mappa è zoomata fuori.
+- Il percorso viene tracciato collegando le fermate in ordine progressivo, senza mischiare linee o varianti diverse.
+- Le fermate non geolocalizzate vengono comunque mostrate nella lista con indicazione dedicata.
+- Il badge della mappa mostra quante fermate sono geolocalizzate rispetto al totale.
+- Le card delle fermate mostrano più informazioni utili: numero fermata, eventuale passaggio duplicato e tipo servizio.
+- Aggiornata la compatibilità con target SDK 37.
+- Dichiarata la fotocamera come feature opzionale per migliorare la compatibilità con dispositivi senza camera e large screen.
+- Aggiunte regole esplicite per backup e trasferimento dati, coerenti con backup disabilitato.
+- Verificati lint e build debug su API 37.
 
 ## Struttura Repository
 
