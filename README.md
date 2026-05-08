@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk"><img alt="APK stabile" src="https://img.shields.io/static/v1?label=&message=STABILE%20APK&color=1f6f5f&style=for-the-badge"></a>
-  <a href="https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk"><img alt="APK beta" src="https://img.shields.io/static/v1?label=&message=BETA%20APK&color=d97706&style=for-the-badge"></a>
+  <a href="https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.3-beta%2B193/androidApp-universal-release.apk"><img alt="APK beta" src="https://img.shields.io/static/v1?label=&message=BETA%20APK&color=d97706&style=for-the-badge"></a>
   <a href="./update.json"><img alt="Manifest JSON" src="https://img.shields.io/static/v1?label=&message=MANIFEST%20JSON&color=cb5a2e&style=for-the-badge"></a>
 </p>
 
@@ -30,9 +30,9 @@ Scopri UniApp, l’app non ufficiale per gli studenti dell’Università degli S
 
 ## Security Scan
 Quest'app e' stata scansionata per potenziali minacce.
-- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/MmVlZDM1ZDMxY2MyZTA4ZDAzOWZiYjg5MjhmZTVmZTE6MTc3NzY3MDI1Mw==/detection>)
+- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/ZTNkZGJjYzEyM2YxODcwNzBlMzAyNDdkMzUxMmQ2MzY6MTc3ODI2MzU0OQ==/detection>)
 
-[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/MmVlZDM1ZDMxY2MyZTA4ZDAzOWZiYjg5MjhmZTVmZTE6MTc3NzY3MDI1Mw==/detection>)
+[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/ZTNkZGJjYzEyM2YxODcwNzBlMzAyNDdkMzUxMmQ2MzY6MTc3ODI2MzU0OQ==/detection>)
 
 
 ## Screenshot
@@ -65,11 +65,11 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | --- | --- |
 | App | UniApp |
 | Repository | `Anto426-Project/UniappUpstream` |
-| Versione corrente | `1.8.1-beta` |
+| Versione corrente | `1.8.3-beta` |
 | Canale release | `beta` |
-| Version code | `191` |
-| Pubblicata il | `2026-05-01` |
-| Versione minima supportata | `1.8.1-beta` |
+| Version code | `193` |
+| Pubblicata il | `2026-05-08` |
+| Versione minima supportata | `1.8.3-beta` |
 | Aggiornamento obbligatorio | `true` |
 | App abilitata | `true` |
 | Package name | `com.anto426.uniapp` |
@@ -79,27 +79,18 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 
 ## Link Rapidi
 
-- [Scarica APK corrente](https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk)
+- [Scarica APK corrente](https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.3-beta%2B193/androidApp-universal-release.apk)
 - [Metadati del canale corrente](./src/release/beta/output-metadata.json)
 - [Percorso APK del canale corrente](./src/release/beta/androidApp-universal-release.apk)
 - [APK stabile](https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk)
-- [APK beta](https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk)
+- [APK beta](https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.3-beta%2B193/androidApp-universal-release.apk)
 - [Apri il manifest aggiornamenti](./update.json)
 
 ## Note Di Rilascio
 
-Changelog 01 May 2026:
-- Aggiunta una mappa integrata per visualizzare le fermate geolocalizzate.
-- I punti sulla mappa ora sono numerati secondo l’ordine presente nel JSON.
-- I punti vicini vengono raggruppati automaticamente quando la mappa è zoomata fuori.
-- Il percorso viene tracciato collegando le fermate in ordine progressivo, senza mischiare linee o varianti diverse.
-- Le fermate non geolocalizzate vengono comunque mostrate nella lista con indicazione dedicata.
-- Il badge della mappa mostra quante fermate sono geolocalizzate rispetto al totale.
-- Le card delle fermate mostrano più informazioni utili: numero fermata, eventuale passaggio duplicato e tipo servizio.
-- Aggiornata la compatibilità con target SDK 37.
-- Dichiarata la fotocamera come feature opzionale per migliorare la compatibilità con dispositivi senza camera e large screen.
-- Aggiunte regole esplicite per backup e trasferimento dati, coerenti con backup disabilitato.
-- Verificati lint e build debug su API 37.
+Changelog 08 May 2026:
+- Migliorato l'updater Android usando asset GitHub Release pubblici invece dei raw Git LFS.
+- Aggiunto fallback sui redirect GitHub/LFS e rilevamento dei download bloccati.
 
 ## Struttura Repository
 
@@ -132,7 +123,7 @@ I campi principali sono:
 
 `downloadUrl` punta attualmente a:
 
-`https://github.com/Anto426-Project/UniappUpstream/raw/main/src/release/beta/androidApp-universal-release.apk`
+`https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.3-beta%2B193/androidApp-universal-release.apk`
 
 ## Flusso Di Pubblicazione
 
