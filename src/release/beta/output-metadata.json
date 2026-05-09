@@ -11,22 +11,9 @@
       "type": "UNIVERSAL",
       "filters": [],
       "attributes": [],
-      "versionCode": 193,
-      "versionName": "1.8.3-beta",
+      "versionCode": 194,
+      "versionName": "1.8.4-beta",
       "outputFile": "androidApp-universal-release.apk"
-    },
-    {
-      "type": "ONE_OF_MANY",
-      "filters": [
-        {
-          "filterType": "ABI",
-          "value": "arm64-v8a"
-        }
-      ],
-      "attributes": [],
-      "versionCode": 193,
-      "versionName": "1.8.3-beta",
-      "outputFile": "androidApp-arm64-v8a-release.apk"
     },
     {
       "type": "ONE_OF_MANY",
@@ -37,9 +24,22 @@
         }
       ],
       "attributes": [],
-      "versionCode": 193,
-      "versionName": "1.8.3-beta",
+      "versionCode": 194,
+      "versionName": "1.8.4-beta",
       "outputFile": "androidApp-armeabi-v7a-release.apk"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "attributes": [],
+      "versionCode": 194,
+      "versionName": "1.8.4-beta",
+      "outputFile": "androidApp-arm64-v8a-release.apk"
     }
   ],
   "elementType": "File",
@@ -49,8 +49,8 @@
       "maxApi": 30,
       "baselineProfiles": [
         "baselineProfiles/1/androidApp-universal-release.dm",
-        "baselineProfiles/1/androidApp-arm64-v8a-release.dm",
-        "baselineProfiles/1/androidApp-armeabi-v7a-release.dm"
+        "baselineProfiles/1/androidApp-armeabi-v7a-release.dm",
+        "baselineProfiles/1/androidApp-arm64-v8a-release.dm"
       ]
     },
     {
@@ -58,8 +58,8 @@
       "maxApi": 2147483647,
       "baselineProfiles": [
         "baselineProfiles/0/androidApp-universal-release.dm",
-        "baselineProfiles/0/androidApp-arm64-v8a-release.dm",
-        "baselineProfiles/0/androidApp-armeabi-v7a-release.dm"
+        "baselineProfiles/0/androidApp-armeabi-v7a-release.dm",
+        "baselineProfiles/0/androidApp-arm64-v8a-release.dm"
       ]
     }
   ],
