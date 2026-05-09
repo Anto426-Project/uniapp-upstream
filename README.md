@@ -30,9 +30,9 @@ Scopri UniApp, l’app non ufficiale per gli studenti dell’Università degli S
 
 ## Security Scan
 Quest'app e' stata scansionata per potenziali minacce.
-- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/YjRhZTJlYmQxMjY3ZTEyYmVmMmExZmIwODc1NTU3NGM6MTc3ODMzMDYzNw==/detection>)
+- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/Njc3NjU1MDRiYjZkYTg2NzQ0OWE0MTUwM2FjNDllMTg6MTc3ODMzMjc3OA==/detection>)
 
-[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/YjRhZTJlYmQxMjY3ZTEyYmVmMmExZmIwODc1NTU3NGM6MTc3ODMzMDYzNw==/detection>)
+[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/Njc3NjU1MDRiYjZkYTg2NzQ0OWE0MTUwM2FjNDllMTg6MTc3ODMzMjc3OA==/detection>)
 
 
 ## Screenshot
@@ -75,7 +75,7 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | Package name | `com.anto426.uniapp` |
 | Min SDK | `29` |
 | File APK | `src/release/beta/androidApp-universal-release.apk` |
-| Dimensione APK | `99.9 MB` |
+| Dimensione APK | `106.6 MB` |
 
 ## Link Rapidi
 

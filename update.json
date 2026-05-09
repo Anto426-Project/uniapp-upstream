@@ -22,12 +22,12 @@
         "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.5-beta%2B195/androidApp-universal-release.apk",
         "downloadUrlsByAbi": {
           "universal": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.5-beta%2B195/androidApp-universal-release.apk",
-          "arm64-v8a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.5-beta%2B195/androidApp-arm64-v8a-release.apk",
-          "armeabi-v7a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.5-beta%2B195/androidApp-armeabi-v7a-release.apk"
+          "armeabi-v7a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.5-beta%2B195/androidApp-armeabi-v7a-release.apk",
+          "arm64-v8a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.5-beta%2B195/androidApp-arm64-v8a-release.apk"
         },
         "notes": "Changelog 09 May 2026:\n- Corretto l'invio del secret API su Android.",
         "publishedAt": "2026-05-09",
-        "buildCommit": "43c5b54b6742331420f4e27ad87460e9d219209e",
+        "buildCommit": "c9baa6e0dc3fc86348eee49c7601d5ae5411df63",
         "appEnabled": true,
         "description": "Stanchi della vecchia app universitaria?\nScopri UniApp, l’app non ufficiale per gli studenti dell’Università degli Studi del Molise, sviluppata in autonomia da Anto426. Completamente riscritta in Kotlin nativo, utilizza le più recenti tecnologie Material 3 Design e Jetpack Compose per offrire un’esperienza moderna, fluida e intuitiva. Gestisci la tua carriera, consulta il libretto, prenota gli esami e accedi rapidamente alle informazioni più importanti, tutto in un’unica interfaccia veloce e curata."
       }
