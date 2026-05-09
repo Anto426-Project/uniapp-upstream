@@ -27,7 +27,7 @@
         },
         "notes": "Changelog 09 May 2026:\n- Miglioramenti interni e stabilita' generale.",
         "publishedAt": "2026-05-09",
-        "buildCommit": "f17b7ec1017d876ea6b8341ad123f0e518f3a665",
+        "buildCommit": "4a4cb69bf68c75facf99a3a2f26a5f90de58f5f0",
         "appEnabled": true,
         "description": "Stanchi della vecchia app universitaria?\nScopri UniApp, l’app non ufficiale per gli studenti dell’Università degli Studi del Molise, sviluppata in autonomia da Anto426. Completamente riscritta in Kotlin nativo, utilizza le più recenti tecnologie Material 3 Design e Jetpack Compose per offrire un’esperienza moderna, fluida e intuitiva. Gestisci la tua carriera, consulta il libretto, prenota gli esami e accedi rapidamente alle informazioni più importanti, tutto in un’unica interfaccia veloce e curata."
       }
