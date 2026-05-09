@@ -13,21 +13,21 @@
     },
     "beta": {
       "release": {
-        "latestVersion": "1.8.4-beta",
-        "latestVersionCode": 194,
-        "minSupportedVersion": "1.8.4-beta",
-        "minSupportedVersionCode": 194,
+        "latestVersion": "1.8.5-beta",
+        "latestVersionCode": 195,
+        "minSupportedVersion": "1.8.5-beta",
+        "minSupportedVersionCode": 195,
         "mandatory": true,
         "releaseChannel": "beta",
-        "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.4-beta%2B194/androidApp-universal-release.apk",
+        "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.5-beta%2B195/androidApp-universal-release.apk",
         "downloadUrlsByAbi": {
-          "universal": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.4-beta%2B194/androidApp-universal-release.apk",
-          "armeabi-v7a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.4-beta%2B194/androidApp-armeabi-v7a-release.apk",
-          "arm64-v8a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.4-beta%2B194/androidApp-arm64-v8a-release.apk"
+          "universal": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.5-beta%2B195/androidApp-universal-release.apk",
+          "arm64-v8a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.5-beta%2B195/androidApp-arm64-v8a-release.apk",
+          "armeabi-v7a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.5-beta%2B195/androidApp-armeabi-v7a-release.apk"
         },
-        "notes": "Changelog 09 May 2026:\n- Miglioramenti interni e stabilita' generale.",
+        "notes": "Changelog 09 May 2026:\n- Corretto l'invio del secret API su Android.",
         "publishedAt": "2026-05-09",
-        "buildCommit": "4a4cb69bf68c75facf99a3a2f26a5f90de58f5f0",
+        "buildCommit": "522f151f721ff8a4cc3cd08004c196280f10595d",
         "appEnabled": true,
         "description": "Stanchi della vecchia app universitaria?\nScopri UniApp, l’app non ufficiale per gli studenti dell’Università degli Studi del Molise, sviluppata in autonomia da Anto426. Completamente riscritta in Kotlin nativo, utilizza le più recenti tecnologie Material 3 Design e Jetpack Compose per offrire un’esperienza moderna, fluida e intuitiva. Gestisci la tua carriera, consulta il libretto, prenota gli esami e accedi rapidamente alle informazioni più importanti, tutto in un’unica interfaccia veloce e curata."
       }
