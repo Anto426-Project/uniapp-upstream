@@ -17,7 +17,7 @@
         "latestVersionCode": 196,
         "minSupportedVersion": "1.8.5-beta",
         "minSupportedVersionCode": 195,
-        "mandatory": true,
+        "mandatory": false,
         "releaseChannel": "beta",
         "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.6-beta%2B196/androidApp-universal-release.apk",
         "downloadUrlsByAbi": {
