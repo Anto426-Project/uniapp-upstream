@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk"><img alt="APK stabile" src="https://img.shields.io/static/v1?label=&message=STABILE%20APK&color=1f6f5f&style=for-the-badge"></a>
-  <a href="https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.7-beta%2B197/androidApp-universal-release.apk"><img alt="APK beta" src="https://img.shields.io/static/v1?label=&message=BETA%20APK&color=d97706&style=for-the-badge"></a>
+  <a href="https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.8-beta%2B198/androidApp-universal-release.apk"><img alt="APK beta" src="https://img.shields.io/static/v1?label=&message=BETA%20APK&color=d97706&style=for-the-badge"></a>
   <a href="./update.json"><img alt="Manifest JSON" src="https://img.shields.io/static/v1?label=&message=MANIFEST%20JSON&color=cb5a2e&style=for-the-badge"></a>
 </p>
 
@@ -30,9 +30,9 @@ Scopri UniApp, l’app non ufficiale per gli studenti dell’Università degli S
 
 ## Security Scan
 Quest'app e' stata scansionata per potenziali minacce.
-- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/MWE4NjRhMjM4MzU1Mzc0MDIzMjgwYWFiYjAxMWE5ZmM6MTc3OTU1MTkyMA==/detection>)
+- [Report Analisi VirusTotal](<https://www.virustotal.com/gui/file-analysis/OTY0NzViMjlmZWRjMzYwMzM5OTc3ZTYzMGE5Y2Q4ZTg6MTc3OTU1NTEzNQ==/detection>)
 
-[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/MWE4NjRhMjM4MzU1Mzc0MDIzMjgwYWFiYjAxMWE5ZmM6MTc3OTU1MTkyMA==/detection>)
+[![VirusTotal Scan Result](https://img.shields.io/badge/VirusTotal-Scan_Report-blue)](<https://www.virustotal.com/gui/file-analysis/OTY0NzViMjlmZWRjMzYwMzM5OTc3ZTYzMGE5Y2Q4ZTg6MTc3OTU1NTEzNQ==/detection>)
 
 
 ## Screenshot
@@ -65,9 +65,9 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | --- | --- |
 | App | UniApp |
 | Repository | `Anto426-Project/UniappUpstream` |
-| Versione corrente | `1.8.7-beta` |
+| Versione corrente | `1.8.8-beta` |
 | Canale release | `beta` |
-| Version code | `197` |
+| Version code | `198` |
 | Pubblicata il | `2026-05-23` |
 | Versione minima supportata | `1.8.5-beta` |
 | Aggiornamento obbligatorio | `true` |
@@ -75,27 +75,23 @@ E' pensato per restare semplice, stabile e leggibile anche da script:
 | Package name | `com.anto426.uniapp` |
 | Min SDK | `29` |
 | File APK | `src/release/beta/androidApp-universal-release.apk` |
-| Dimensione APK | `51.9 MB` |
+| Dimensione APK | `52.2 MB` |
 
 ## Link Rapidi
 
-- [Scarica APK corrente](https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.7-beta%2B197/androidApp-universal-release.apk)
+- [Scarica APK corrente](https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.8-beta%2B198/androidApp-universal-release.apk)
 - [Metadati del canale corrente](./src/release/beta/output-metadata.json)
 - [Percorso APK del canale corrente](./src/release/beta/androidApp-universal-release.apk)
 - [APK stabile](https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk)
-- [APK beta](https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.7-beta%2B197/androidApp-universal-release.apk)
+- [APK beta](https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.8-beta%2B198/androidApp-universal-release.apk)
 - [Apri il manifest aggiornamenti](./update.json)
 
 ## Note Di Rilascio
 
 Changelog 23 May 2026:
-- Rafforzato il bundle TLS Android: niente fallback alle CA di sistema, seed firmato nel pacchetto e aggiornamenti dalla repository esterna.
-- Aggiornato il workflow certificati per firmare e pubblicare il bundle esterno con chiave privata nei secret GitHub.
-- Migliorato il caricamento dei trasporti: refresh remoto all'apertura, selezione esplicita della tratta e cache piu' prudente per le prenotazioni esistenti.
-- Aggiunto uno stato dedicato quando il modulo trasporti non e' disponibile per l'utente.
-- Uniformati stati vuoti, non disponibili e contenuti non trovati usando UnifiedEmptyState in piu' schermate.
-- Rifinita la bottom bar flottante e migliorata la resa delle schermate senza contenuti.
-- Corretto il consiglio di passare alla stabile: ora appare solo se il versionCode stabile supera quello beta e viene propagato anche al banner update della home.
+- Overhaul premium delle schermate di Forced Update e App Updates
+- Ottimizzazione e pulizia di ProGuard / R8
+- Rimozione della compilazione AAB dal workflow CI
 
 ## Struttura Repository
 
@@ -128,7 +124,7 @@ I campi principali sono:
 
 `downloadUrl` punta attualmente a:
 
-`https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.7-beta%2B197/androidApp-universal-release.apk`
+`https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.8-beta%2B198/androidApp-universal-release.apk`
 
 ## Flusso Di Pubblicazione
 

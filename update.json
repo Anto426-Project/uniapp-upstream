@@ -13,21 +13,21 @@
     },
     "beta": {
       "release": {
-        "latestVersion": "1.8.7-beta",
-        "latestVersionCode": 197,
+        "latestVersion": "1.8.8-beta",
+        "latestVersionCode": 198,
         "minSupportedVersion": "1.8.5-beta",
         "minSupportedVersionCode": 195,
-        "mandatory": false,
+        "mandatory": true,
         "releaseChannel": "beta",
-        "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.7-beta%2B197/androidApp-universal-release.apk",
+        "downloadUrl": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.8-beta%2B198/androidApp-universal-release.apk",
         "downloadUrlsByAbi": {
-          "universal": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.7-beta%2B197/androidApp-universal-release.apk",
-          "armeabi-v7a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.7-beta%2B197/androidApp-armeabi-v7a-release.apk",
-          "arm64-v8a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.7-beta%2B197/androidApp-arm64-v8a-release.apk"
+          "universal": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.8-beta%2B198/androidApp-universal-release.apk",
+          "armeabi-v7a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.8-beta%2B198/androidApp-armeabi-v7a-release.apk",
+          "arm64-v8a": "https://github.com/Anto426-Project/UniappUpstream/releases/download/v1.8.8-beta%2B198/androidApp-arm64-v8a-release.apk"
         },
-        "notes": "Changelog 23 May 2026:\n- Rafforzato il bundle TLS Android: niente fallback alle CA di sistema, seed firmato nel pacchetto e aggiornamenti dalla repository esterna.\n- Aggiornato il workflow certificati per firmare e pubblicare il bundle esterno con chiave privata nei secret GitHub.\n- Migliorato il caricamento dei trasporti: refresh remoto all'apertura, selezione esplicita della tratta e cache piu' prudente per le prenotazioni esistenti.\n- Aggiunto uno stato dedicato quando il modulo trasporti non e' disponibile per l'utente.\n- Uniformati stati vuoti, non disponibili e contenuti non trovati usando UnifiedEmptyState in piu' schermate.\n- Rifinita la bottom bar flottante e migliorata la resa delle schermate senza contenuti.\n- Corretto il consiglio di passare alla stabile: ora appare solo se il versionCode stabile supera quello beta e viene propagato anche al banner update della home.",
+        "notes": "Changelog 23 May 2026:\n- Overhaul premium delle schermate di Forced Update e App Updates\n- Ottimizzazione e pulizia di ProGuard / R8\n- Rimozione della compilazione AAB dal workflow CI",
         "publishedAt": "2026-05-23",
-        "buildCommit": "5c3de7bf49686f1d5b2fc89d00b2b23c6bbfcffa",
+        "buildCommit": "b2bcad0d5cede00d3cec7b7ff9e43b116583b2cf",
         "appEnabled": true,
         "description": "Stanchi della vecchia app universitaria?\nScopri UniApp, l’app non ufficiale per gli studenti dell’Università degli Studi del Molise, sviluppata in autonomia da Anto426. Completamente riscritta in Kotlin nativo, utilizza le più recenti tecnologie Material 3 Design e Jetpack Compose per offrire un’esperienza moderna, fluida e intuitiva. Gestisci la tua carriera, consulta il libretto, prenota gli esami e accedi rapidamente alle informazioni più importanti, tutto in un’unica interfaccia veloce e curata."
       }
