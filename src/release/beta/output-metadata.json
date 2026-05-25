@@ -11,8 +11,8 @@
       "type": "UNIVERSAL",
       "filters": [],
       "attributes": [],
-      "versionCode": 198,
-      "versionName": "1.8.8-beta",
+      "versionCode": 199,
+      "versionName": "1.8.9-beta",
       "outputFile": "androidApp-universal-release.apk"
     },
     {
@@ -24,8 +24,8 @@
         }
       ],
       "attributes": [],
-      "versionCode": 198,
-      "versionName": "1.8.8-beta",
+      "versionCode": 199,
+      "versionName": "1.8.9-beta",
       "outputFile": "androidApp-armeabi-v7a-release.apk"
     },
     {
@@ -37,8 +37,8 @@
         }
       ],
       "attributes": [],
-      "versionCode": 198,
-      "versionName": "1.8.8-beta",
+      "versionCode": 199,
+      "versionName": "1.8.9-beta",
       "outputFile": "androidApp-arm64-v8a-release.apk"
     }
   ],
