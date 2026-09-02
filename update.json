@@ -2,7 +2,7 @@
   "channels": {
     "stable": {
       "release": {
-        "latestVersion": "1.5.1",
+        "latestVersion": "1.5.2",
         "minSupportedVersion": "1.1.0",
         "mandatory": true,
         "downloadUrl": "https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk",
