@@ -4,7 +4,7 @@
       "release": {
         "latestVersion": "1.5.1",
         "minSupportedVersion": "1.1.0",
-        "mandatory": false,
+        "mandatory": true,
         "downloadUrl": "https://raw.githubusercontent.com/Anto426-Project/UniappUpstream/main/src/release/androidApp-release.apk",
         "notes": "Bug fixes.",
         "publishedAt": "2026-03-08",
