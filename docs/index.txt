@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[3486,["766","static/chunks/766-8dd47a28b0c0f77c.js","345","static/chunks/app/not-found-86e1bd279ecb97de.js"],"default"]
+5:I[1959,[],"ClientPageRoot"]
+6:I[715,["592","static/chunks/c15bf2b0-52e8419f34af26ab.js","554","static/chunks/554-a457484f47bd43bf.js","974","static/chunks/app/page-fddeaf0681dbdd5f.js"],"default"]
+9:I[4431,[],"OutletBoundary"]
+b:I[5278,[],"AsyncMetadataOutlet"]
+d:I[4431,[],"ViewportBoundary"]
+f:I[4431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[7150,[],""]
+:HL["/UniappUpstream/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/UniappUpstream/_next/static/media/636a5ac981f94f8b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/UniappUpstream/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/UniappUpstream/_next/static/css/a3c9f2a868137bb5.css","style"]
+:HL["/UniappUpstream/_next/static/css/feb2b6fcd9b37c22.css","style"]
+0:{"P":null,"b":"21vjhQD2LZFNW1qVk39C5","p":"/UniappUpstream","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/UniappUpstream/_next/static/css/a3c9f2a868137bb5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"it","className":"__variable_100dd4 __variable_1631b7 font-sans __variable_80513c","children":["$","body",null,{"className":"theme-violet","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L4",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","searchParams":{},"params":{},"promises":["$@7","$@8"]}],[["$","link","0",{"rel":"stylesheet","href":"/UniappUpstream/_next/static/css/feb2b6fcd9b37c22.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+7:{}
+8:"$0:f:0:1:2:children:1:props:children:0:props:params"
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#07080c"}]]
+a:null
+13:I[622,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"UniApp Upstream | Distribuzione Ufficiale Android"}],["$","meta","1",{"name":"description","content":"Sito di distribuzione ufficiale per UniApp: scarica l'APK nativo per Android (Beta e Stabile), consulta i changelog e le specifiche dell'applicazione."}],["$","meta","2",{"name":"author","content":"Anto426"}],["$","meta","3",{"property":"og:title","content":"UniApp Upstream | Distribuzione Ufficiale Android"}],["$","meta","4",{"property":"og:description","content":"Scarica l'APK di UniApp per Android con design Liquid Monet e Kotlin nativo per gli studenti UniMol."}],["$","meta","5",{"property":"og:url","content":"https://anto426-project.github.io/UniappUpstream/"}],["$","meta","6",{"property":"og:site_name","content":"UniApp Upstream"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"UniApp Upstream | Distribuzione Ufficiale Android"}],["$","meta","10",{"name":"twitter:description","content":"Scarica l'APK di UniApp per Android con design Liquid Monet e Kotlin nativo per gli studenti UniMol."}],["$","link","11",{"rel":"icon","href":"/UniappUpstream/favicon.ico","sizes":"any"}],["$","link","12",{"rel":"icon","href":"/UniappUpstream/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","13",{"rel":"icon","href":"/UniappUpstream/favicon-192x192.png","sizes":"192x192","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/UniappUpstream/apple-touch-icon.png","sizes":"180x180","type":"image/png"}],["$","$L13","15",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
