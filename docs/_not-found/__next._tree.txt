@@ -1,3 +1,2 @@
-:HL["/uniapp-upstream/_next/static/chunks/10v7d7bbk-n65.css","style"]
-:HL["/uniapp-upstream/_next/static/chunks/0vecwgfvdfy8l.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"2umkcffqnSrOwNpEHv4Np"}
+:HL["/uniapp-upstream/_next/static/chunks/35611mgaq362l.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"5SYdZhrYd5ybzT1tAyz9c"}
