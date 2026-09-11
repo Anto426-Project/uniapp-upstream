@@ -1,8 +1,8 @@
-:HL["/uniapp-upstream/_next/static/chunks/010-bdmsms_0c.css","style"]
+:HL["/uniapp-upstream/_next/static/chunks/25vqnf2tvfojc.css","style"]
 :HL["/uniapp-upstream/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/uniapp-upstream/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/uniapp-upstream/_next/static/chunks/3jq96hhtqeds7.css","style"]
 :HL["/uniapp-upstream/assets/uniapp-icon.webp","image"]
 :HL["https://github.com/Anto426-Project.png","image"]
 :HL["https://github.com/Anto426.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"WfUTwAXSy_JqbDEDcMnoc"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"Al3mpiYEpZjjPLcYDzmzm"}
