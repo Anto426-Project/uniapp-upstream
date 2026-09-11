@@ -4,16 +4,16 @@
   "minSupportedVersion": "2.0.3",
   "minSupportedVersionCode": 203,
   "mandatory": true,
-  "notes": "- Corretto il crash della home quando non sono disponibili notizie.\n- Ripristinati i test Android e i controlli sul sito prima della pubblicazione",
-  "latestVersion": "2.0.3",
-  "latestVersionCode": 1149,
-  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.3%2B1149/androidApp-release.apk",
+  "notes": "- Semplificata la conferma password nelle impostazioni con il pulsante \"Conferma\".\n- Riorganizzato il banner informativo dell'app con versione, build e note di rilascio.\n- Nuovo selettore rapido degli account con card profilo dedicata e gestione avatar.\n- Riprogettati i banner di aggiornamento con hero header coerente e feedback di avanzamento.\n- Armonizzato lo stile grafico delle card notizie nella schermata principale con il design Liquid.",
+  "latestVersion": "2.0.4",
+  "latestVersionCode": 1151,
+  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.4%2B1151/androidApp-release.apk",
   "downloadUrlsByAbi": {
-    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.3%2B1149/androidApp-release.apk"
+    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.4%2B1151/androidApp-release.apk"
   },
   "sha256ByAbi": {
-    "arm64-v8a": "7b1e66125ad985fa2648c687d648fd2d716d2962366d2e662608f0e7f657a9be"
+    "arm64-v8a": "9b86ae56ee1b6df722ce2086c3983c64c25ad60443650515a0bfa32af670827d"
   },
-  "publishedAt": "2026-09-11T18:52:59.156908+00:00",
-  "buildCommit": "2c4aa66fe46030641e09b6d14b7ad62310eb0bfc"
+  "publishedAt": "2026-09-11T19:29:23.380625+00:00",
+  "buildCommit": "3a7198ef86f1fe1705bc89750e606b326b517cd9"
 }
