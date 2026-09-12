@@ -2,11 +2,11 @@
 
 UniApp è un progetto indipendente per accedere ai servizi universitari. Questo repository contiene il sito di distribuzione e il manifest degli aggiornamenti Android.
 
-Versione **2.0.4**, build **1151**.
+Versione **2.0.4**, build **1152**.
 
 ## Download Android
 
-- [arm64-v8a](https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.4%2B1151/androidApp-release.apk)
+- [arm64-v8a](https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.4%2B1152/androidApp-release.apk)
 
 Gli APK e i relativi SHA-256 sono pubblicati nelle GitHub Releases. Su iOS la distribuzione agli utenti avviene tramite App Store.
 
