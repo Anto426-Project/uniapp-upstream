@@ -4,16 +4,16 @@
   "minSupportedVersion": "2.0.3",
   "minSupportedVersionCode": 203,
   "mandatory": true,
-  "notes": "- Riprogettata la schermata dettaglio corso con collegamento ai dati accademici reali (SSD, CFU, programma, testi) e scheda docente dedicata.\n- Riorganizzata la sezione servizi e portali universitari in griglie bilanciate 2x2 e 3x2 con altezza uniforme.\n- Incluso il supporto completo a idoneità e giudizi nel libretto e allineato il grafico crediti CFU con le statistiche.\n- Rinnovata la registrazione presenze con LiquidDialog dell'SDK e scanner QR a schermo intero.\n- Aggiornato il Color Lab e la selezione temi eliminando i preset scuri a favore di palette vivaci e input esadecimale.\n- Rimosso il changelog dal foglio di aggiornamento dell'applicazione.\n- Aggiornato l'ambiente di compilazione ad Android Gradle Plugin 9.4.0 e Gradle Wrapper 9.7.1.",
-  "latestVersion": "2.0.5",
-  "latestVersionCode": 1155,
-  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.5%2B1155/androidApp-release.apk",
+  "notes": "- Aggiornato SDK Liquid Monet alla versione 1.0.13 e SDK UniSDK alla 1.0.10.\n- Introdotto motore cross-platform per generazione e decodifica codici QR e a barre (Code 128, QR) conforme agli standard.\n- Integrata generazione dinamica e fedele del QR code per il badge accademico dello studente.\n- Aggiunto salvataggio offline, caching e ispezione ad alta definizione per i biglietti del trasporto universitario.\n- Supporto alla decodifica automatica dei codici a barre dai biglietti originali con switch tra vista digitale e immagine originale.",
+  "latestVersion": "2.0.6",
+  "latestVersionCode": 1156,
+  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.6%2B1156/androidApp-release.apk",
   "downloadUrlsByAbi": {
-    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.5%2B1155/androidApp-release.apk"
+    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.6%2B1156/androidApp-release.apk"
   },
   "sha256ByAbi": {
-    "arm64-v8a": "c631ed9920ded6a23246df9d463abe7d32eff5ea10941a2ebb06fdd1e4813e0f"
+    "arm64-v8a": "8472c33b52837012a61302c47124cb522fc86b8c8d4e173379773aae25bdd4a8"
   },
-  "publishedAt": "2026-09-13T05:23:56.325862+00:00",
-  "buildCommit": "40281338ea4b402ff7f90459a672120107c28eed"
+  "publishedAt": "2026-09-13T11:45:30.400423+00:00",
+  "buildCommit": "3382dfd74c62f1218e333c23a240b8b5c2747c3b"
 }

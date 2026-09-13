@@ -2,23 +2,21 @@
 
 UniApp è un progetto indipendente per accedere ai servizi universitari. Questo repository contiene il sito di distribuzione e il manifest degli aggiornamenti Android.
 
-Versione **2.0.5**, build **1155**.
+Versione **2.0.6**, build **1156**.
 
 ## Download Android
 
-- [arm64-v8a](https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.5%2B1155/androidApp-release.apk)
+- [arm64-v8a](https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.6%2B1156/androidApp-release.apk)
 
 Gli APK e i relativi SHA-256 sono pubblicati nelle GitHub Releases. Su iOS la distribuzione agli utenti avviene tramite App Store.
 
 ## Note di rilascio
 
-- Riprogettata la schermata dettaglio corso con collegamento ai dati accademici reali (SSD, CFU, programma, testi) e scheda docente dedicata.
-- Riorganizzata la sezione servizi e portali universitari in griglie bilanciate 2x2 e 3x2 con altezza uniforme.
-- Incluso il supporto completo a idoneità e giudizi nel libretto e allineato il grafico crediti CFU con le statistiche.
-- Rinnovata la registrazione presenze con LiquidDialog dell'SDK e scanner QR a schermo intero.
-- Aggiornato il Color Lab e la selezione temi eliminando i preset scuri a favore di palette vivaci e input esadecimale.
-- Rimosso il changelog dal foglio di aggiornamento dell'applicazione.
-- Aggiornato l'ambiente di compilazione ad Android Gradle Plugin 9.4.0 e Gradle Wrapper 9.7.1.
+- Aggiornato SDK Liquid Monet alla versione 1.0.13 e SDK UniSDK alla 1.0.10.
+- Introdotto motore cross-platform per generazione e decodifica codici QR e a barre (Code 128, QR) conforme agli standard.
+- Integrata generazione dinamica e fedele del QR code per il badge accademico dello studente.
+- Aggiunto salvataggio offline, caching e ispezione ad alta definizione per i biglietti del trasporto universitario.
+- Supporto alla decodifica automatica dei codici a barre dai biglietti originali con switch tra vista digitale e immagine originale.
 
 ## Contenuto del repository
 
