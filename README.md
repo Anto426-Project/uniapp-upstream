@@ -2,21 +2,23 @@
 
 UniApp è un progetto indipendente per accedere ai servizi universitari. Questo repository contiene il sito di distribuzione e il manifest degli aggiornamenti Android.
 
-Versione **2.0.4**, build **1152**.
+Versione **2.0.5**, build **1155**.
 
 ## Download Android
 
-- [arm64-v8a](https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.4%2B1152/androidApp-release.apk)
+- [arm64-v8a](https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.5%2B1155/androidApp-release.apk)
 
 Gli APK e i relativi SHA-256 sono pubblicati nelle GitHub Releases. Su iOS la distribuzione agli utenti avviene tramite App Store.
 
 ## Note di rilascio
 
-- Semplificata la conferma password nelle impostazioni con il pulsante "Conferma".
-- Riorganizzato il banner informativo dell'app con versione, build e note di rilascio.
-- Nuovo selettore rapido degli account con card profilo dedicata e gestione avatar.
-- Riprogettati i banner di aggiornamento con hero header coerente e feedback di avanzamento.
-- Armonizzato lo stile grafico delle card notizie nella schermata principale con il design Liquid.
+- Riprogettata la schermata dettaglio corso con collegamento ai dati accademici reali (SSD, CFU, programma, testi) e scheda docente dedicata.
+- Riorganizzata la sezione servizi e portali universitari in griglie bilanciate 2x2 e 3x2 con altezza uniforme.
+- Incluso il supporto completo a idoneità e giudizi nel libretto e allineato il grafico crediti CFU con le statistiche.
+- Rinnovata la registrazione presenze con LiquidDialog dell'SDK e scanner QR a schermo intero.
+- Aggiornato il Color Lab e la selezione temi eliminando i preset scuri a favore di palette vivaci e input esadecimale.
+- Rimosso il changelog dal foglio di aggiornamento dell'applicazione.
+- Aggiornato l'ambiente di compilazione ad Android Gradle Plugin 9.4.0 e Gradle Wrapper 9.7.1.
 
 ## Contenuto del repository
 
