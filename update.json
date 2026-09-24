@@ -4,16 +4,16 @@
   "minSupportedVersion": "2.0.3",
   "minSupportedVersionCode": 203,
   "mandatory": true,
-  "notes": "- Corretti gli angoli della cornice del QR del badge, mantenendo dimensioni e leggibilità del codice.\n- Rubrica completa con tutti i numeri di telefono, indirizzo ed edificio separati e azioni email e chiamata.\n- Corretti ricerca, selezione degli omonimi e contatti senza sede; aggiornato UniSDK per preservare tutti i dati della rubrica.",
-  "latestVersion": "2.0.8",
-  "latestVersionCode": 1158,
-  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.8%2B1158/androidApp-release.apk",
+  "notes": "- Riprogettata la schermata di prenotazione corse con selezione direzione in card tematiche e pass di riepilogo con posto garantito.\n- Rinnovata la vista del biglietto originale e dei codici QR con contenitori LiquidSheet compatti ad altezza ridotta.\n- Aggiunte azioni rapide (email e chiamata) nella scheda contatto e migliorata la navigazione alla rubrica dalla schermata corso.\n- Armonizzata la spaziatura delle card notizie con il design system Liquid Monet.",
+  "latestVersion": "2.0.9",
+  "latestVersionCode": 1160,
+  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.9%2B1160/androidApp-release.apk",
   "downloadUrlsByAbi": {
-    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.8%2B1158/androidApp-release.apk"
+    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.9%2B1160/androidApp-release.apk"
   },
   "sha256ByAbi": {
-    "arm64-v8a": "91319111600574bf9e7256e63f526143ebf6097baa11ba022638ba61efad8a0a"
+    "arm64-v8a": "925bcecd172a9a602f346b3a024d6e9da652a6b1ff7d636db71ca8e0f53f4ed5"
   },
-  "publishedAt": "2026-09-15T07:01:01.918227+00:00",
-  "buildCommit": "9cba5bcd3a46758957681abbc7db310a2fb40de5"
+  "publishedAt": "2026-09-24T05:22:47.776360+00:00",
+  "buildCommit": "20c12422cd4cce7c6d3ff1d36ee6fed7ccf9aa55"
 }
