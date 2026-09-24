@@ -5,4 +5,4 @@
 :HL["/uniapp-upstream/assets/uniapp-icon.webp","image"]
 :HL["https://github.com/Anto426-Project.png","image"]
 :HL["https://github.com/Anto426.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"9aKKQf0infMbQ2sDNxcFy"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"dtIF3DWqe3LR-e6mq2Xz4"}
