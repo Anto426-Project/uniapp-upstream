@@ -4,16 +4,16 @@
   "minSupportedVersion": "2.0.3",
   "minSupportedVersionCode": 203,
   "mandatory": true,
-  "notes": "- Riprogettata la schermata di prenotazione corse con selezione direzione in card tematiche e pass di riepilogo con posto garantito.\n- Rinnovata la vista del biglietto originale e dei codici QR con contenitori LiquidSheet compatti ad altezza ridotta.\n- Aggiunte azioni rapide (email e chiamata) nella scheda contatto e migliorata la navigazione alla rubrica dalla schermata corso.\n- Armonizzata la spaziatura delle card notizie con il design system Liquid Monet.",
-  "latestVersion": "2.0.9",
-  "latestVersionCode": 1160,
-  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.9%2B1160/androidApp-release.apk",
+  "notes": "- Biglietti salvati e disponibili offline anche se il portale risponde con errori o elenchi incompleti.\n- Dati del viaggio corretti e prenotazioni ordinate per data e ora.\n- Rimosso il collegamento ridondante al biglietto ufficiale dal dettaglio.",
+  "latestVersion": "2.0.10",
+  "latestVersionCode": 1161,
+  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.10%2B1161/androidApp-release.apk",
   "downloadUrlsByAbi": {
-    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.9%2B1160/androidApp-release.apk"
+    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.10%2B1161/androidApp-release.apk"
   },
   "sha256ByAbi": {
-    "arm64-v8a": "925bcecd172a9a602f346b3a024d6e9da652a6b1ff7d636db71ca8e0f53f4ed5"
+    "arm64-v8a": "9256469c7d4a18676337e326822ea5ecd7579f80066b32f9f3452a49fed404b3"
   },
-  "publishedAt": "2026-09-24T05:22:47.776360+00:00",
-  "buildCommit": "20c12422cd4cce7c6d3ff1d36ee6fed7ccf9aa55"
+  "publishedAt": "2026-09-24T22:41:13.212458+00:00",
+  "buildCommit": "9e1517bbb994170e09be884a05e4adf6e6f82dbd"
 }
