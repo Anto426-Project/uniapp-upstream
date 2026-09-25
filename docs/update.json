@@ -4,16 +4,16 @@
   "minSupportedVersion": "2.0.3",
   "minSupportedVersionCode": 203,
   "mandatory": true,
-  "notes": "- Biglietti salvati e disponibili offline anche se il portale risponde con errori o elenchi incompleti.\n- Dati del viaggio corretti e prenotazioni ordinate per data e ora.\n- Rimosso il collegamento ridondante al biglietto ufficiale dal dettaglio.",
-  "latestVersion": "2.0.10",
-  "latestVersionCode": 1161,
-  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.10%2B1161/androidApp-release.apk",
+  "notes": "- Il codice a barre del biglietto mostra il valore sotto le barre; rimossa la vista digitale duplicata sotto la tessera.",
+  "latestVersion": "2.0.11",
+  "latestVersionCode": 1162,
+  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.11%2B1162/androidApp-release.apk",
   "downloadUrlsByAbi": {
-    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.10%2B1161/androidApp-release.apk"
+    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.11%2B1162/androidApp-release.apk"
   },
   "sha256ByAbi": {
-    "arm64-v8a": "9256469c7d4a18676337e326822ea5ecd7579f80066b32f9f3452a49fed404b3"
+    "arm64-v8a": "77b35394edbd9278467232ca581b3a207d2261cc78443a73149c62681954270a"
   },
-  "publishedAt": "2026-09-24T22:41:13.212458+00:00",
-  "buildCommit": "9e1517bbb994170e09be884a05e4adf6e6f82dbd"
+  "publishedAt": "2026-09-25T06:56:24.856172+00:00",
+  "buildCommit": "64cace6c77cafdf659b5fb79270cc95e6134b2c4"
 }
