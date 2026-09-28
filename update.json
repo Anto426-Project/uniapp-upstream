@@ -4,16 +4,16 @@
   "minSupportedVersion": "2.0.3",
   "minSupportedVersionCode": 203,
   "mandatory": true,
-  "notes": "- Notizie più fluide: feed preparato una sola volta, card Home di altezza stabile e dettaglio formattato con link alla fonte.\n- Cache e navigazione separate per account e profilo; consenso notifiche associato all’account attivo.\n- Banner Info app e Aggiornamenti più leggibili; verifica del pacchetto collegata allo stato reale dell’updater.\n- Storage locale reimpostato una sola volta per questa migrazione, con avviso da confermare all’apertura. Sarà necessario accedere di nuovo.\n- Liquid Monet 2.0.32 e UniSDK 1.0.18; log trasporti senza contenuti delle risposte del portale.",
-  "latestVersion": "2.0.13",
-  "latestVersionCode": 1165,
-  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.13%2B1165/androidApp-release.apk",
+  "notes": "- Sblocco App: schermata visibile già all'avvio, con password UniApp e pulsante per richiamare l'autenticazione del dispositivo senza prompt automatico; “Usa un altro account” apre il login.\n- Prenotazioni Trasporti: il calendario mostra il mese intero, ma permette di scegliere solo i giorni feriali da domani fino a 15 giorni. Le corse già prenotate restano visibili e non selezionabili; dopo una prenotazione la disponibilità si aggiorna subito. Rinnovate le card di selezione della direzione.\n- Biglietti: il pulsante per annullare la corsa rifrange il contenuto sottostante; aggiornata la resa del codice a barre.\n- Area Docente: card e sezioni con altezze più coerenti, metriche bilanciate e icone dedicate.\n- Badge Accademico: nuova grafica del codice a barre con cornice Monet e stato attivo.\n- Home e Temi: card notizie più compatte e selettore del motore grafico aggiornato.\n- Carriere: cambio profilo disponibile dalla barra superiore delle sezioni principali, con gestione dell'elenco delle carriere restituito dal portale.\n- Informazioni: corretto l'allineamento della versione e del nome dell'app nel banner.\n- Icone dell'app aggiornate e variante di sviluppo separata dalla versione installata.",
+  "latestVersion": "2.0.14",
+  "latestVersionCode": 1167,
+  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.14%2B1167/androidApp-release.apk",
   "downloadUrlsByAbi": {
-    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.13%2B1165/androidApp-release.apk"
+    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.14%2B1167/androidApp-release.apk"
   },
   "sha256ByAbi": {
-    "arm64-v8a": "26bf1d79f11f0e959f3c3732dfcadae22e3941b7bfe70cad39c0010236ba1f70"
+    "arm64-v8a": "9659e52d0f2b3507dc7c1b087bb6e5c9b6704ade1e63f1d78e752914a8d4c072"
   },
-  "publishedAt": "2026-09-27T18:57:32.174063+00:00",
-  "buildCommit": "0e351e0d8eb525f37f8f0caa3fc681282c6d9590"
+  "publishedAt": "2026-09-28T12:03:41.635773+00:00",
+  "buildCommit": "a6a06e9a2af4b3afae8318db49a2a83b68dc275a"
 }
