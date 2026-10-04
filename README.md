@@ -8,7 +8,7 @@ Versione **2.0.14**, build **1168**.
 
 - [arm64-v8a](https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.14%2B1168/androidApp-release.apk)
 
-Gli APK e i relativi SHA-256 sono pubblicati nelle GitHub Releases. Le build desktop, iOS non firmate e Android debug/unsigned sono disponibili nella pagina di tutte le release. Le IPA non firmate richiedono firma/provisioning.
+Ogni piattaforma ha una pubblicazione indipendente nelle GitHub Releases: un APK Android release (firmato quando la chiave è disponibile), una versione iOS e una versione desktop. Le IPA non firmate richiedono firma/provisioning.
 
 [Tutte le piattaforme e varianti](https://github.com/Anto426-Project/uniapp-upstream/releases)
 
