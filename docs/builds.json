@@ -9,15 +9,6 @@
     "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/desktop-v2.0.14-desktop.1+2"
   },
   {
-    "tag": "v2.0.14+1168",
-    "platform": "android",
-    "signing": "release-key",
-    "version": "2.0.14",
-    "sourceSha": "c77f6fe22c86b0c3d5e578a13289ef8ad561885c",
-    "runId": "37215405303",
-    "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/v2.0.14+1168"
-  },
-  {
     "tag": "ios-v2.0.14+1146-unsigned",
     "platform": "ios",
     "signing": "unsigned",
@@ -25,5 +16,14 @@
     "sourceSha": "c77f6fe22c86b0c3d5e578a13289ef8ad561885c",
     "runId": "37215405360",
     "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/ios-v2.0.14+1146-unsigned"
+  },
+  {
+    "tag": "v2.0.14+1168",
+    "platform": "android",
+    "signing": "release-key",
+    "version": "2.0.14",
+    "sourceSha": "c77f6fe22c86b0c3d5e578a13289ef8ad561885c",
+    "runId": "37215405303",
+    "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/v2.0.14+1168"
   }
 ]
