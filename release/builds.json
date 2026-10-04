@@ -25,5 +25,14 @@
     "sourceSha": "ffdfcfbfbb60604a23d59cbf4ba65c6cb83844bf",
     "runId": "37215604636",
     "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/desktop-v2.0.14-desktop.1+2"
+  },
+  {
+    "tag": "desktop-v2.0.14-desktop.1+4",
+    "platform": "desktop",
+    "signing": "unsigned",
+    "version": "2.0.14-desktop.1",
+    "sourceSha": "66914c2366ad764976661c8ca0d44ba874aad977",
+    "runId": "37228653024",
+    "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/desktop-v2.0.14-desktop.1+4"
   }
 ]
