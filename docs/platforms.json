@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "platforms": {
+    "android": {
+      "tag": "v2.0.15+1172",
+      "version": "2.0.15",
+      "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/v2.0.15+1172",
+      "signing": "release-key",
+      "runId": "37742803223",
+      "sourceSha": "0842fe80bfb8a840cd1814b364d0e5b3eb877e13",
+      "variants": {
+        "android": {
+          "version": "2.0.15",
+          "tag": "v2.0.15+1172",
+          "runId": "37742803223",
+          "sourceSha": "0842fe80bfb8a840cd1814b364d0e5b3eb877e13",
+          "downloads": [
+            {
+              "name": "androidApp-release.apk",
+              "sha256": "c4ba4a908ed21e38327069a3c19666a89a802abb77868ef1d53e1bf94c85bd66",
+              "os": "android",
+              "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.15%2B1172/androidApp-release.apk"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
