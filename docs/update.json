@@ -4,16 +4,16 @@
   "minSupportedVersion": "2.0.3",
   "minSupportedVersionCode": 203,
   "mandatory": true,
-  "notes": "- Sblocco App: schermata visibile già all'avvio, con password UniApp e pulsante per richiamare l'autenticazione del dispositivo senza prompt automatico; “Usa un altro account” apre il login.\n- Sessioni e dati: un solo gestore della sessione attiva e archivio separato per account e carriera; rimossi i componenti di semplice inoltro. Il cambio account resta attivo quando Login o Impostazioni vengono chiuse e interrompe le richieste del profilo precedente.\n- Nuovo accesso richiesto: account, credenziali, ticket, preferenze e cache locali vengono cancellati una sola volta al primo avvio di questa build. Nessun vecchio ticket o profilo viene convertito.\n- UniSDK 1.0.23: identità della carriera docente basata sugli ID del portale e completamento della selezione quando il portale richiede una seconda risposta di autenticazione.\n- Prenotazioni Trasporti: il calendario mostra il mese intero, ma permette di scegliere solo i giorni feriali da domani fino a 15 giorni. Le corse già prenotate restano visibili e non selezionabili; dopo una prenotazione la disponibilità si aggiorna subito. Rinnovate le card di selezione della direzione.\n- Biglietti: il pulsante per annullare la corsa rifrange il contenuto sottostante; aggiornata la resa del codice a barre.\n- Area Docente: card e sezioni con altezze più coerenti, metriche bilanciate e icone dedicate.\n- Badge Accademico: nuova grafica del codice a barre con cornice Monet e stato attivo.\n- Home e Temi: card notizie più compatte e selettore del motore grafico aggiornato.\n- Carriere: cambio profilo disponibile dalla barra superiore delle sezioni principali, con gestione dell'elenco delle carriere restituito dal portale.\n- Informazioni: corretto l'allineamento della versione e del nome dell'app nel banner.\n- Icone dell'app aggiornate e variante di sviluppo separata dalla versione installata.\n- Distribuzioni: versione PC con workflow Linux/Windows/macOS; pubblicazione separata anche delle build debug/non firmate e iOS per dispositivo/simulatore.",
-  "latestVersion": "2.0.14",
-  "latestVersionCode": 1168,
-  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.14%2B1168/androidApp-release.apk",
+  "notes": "- UniSDK aggiornato alla versione 1.0.25, con messaggi di errore gestiti e localizzati dall’app.\n- Ripristinata la rotazione 3D delle card e del banner generico, rispettando Riduci movimento.\n- Download dedicati per Android, iOS, Windows, Linux (Debian/Ubuntu e Arch) e macOS.\n- In Tema, selettore degli otto preset Liquid Monet con Dissolvenza orizzontale predefinita e preferenze salvate.\n- Liquid Monet aggiornato alla versione 2.0.36: transizione unica tra pagine e ritorno indietro, senza animazioni locali delle schermate.",
+  "latestVersion": "2.0.15",
+  "latestVersionCode": 1172,
+  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.15%2B1172/androidApp-release.apk",
   "downloadUrlsByAbi": {
-    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.14%2B1168/androidApp-release.apk"
+    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.15%2B1172/androidApp-release.apk"
   },
   "sha256ByAbi": {
-    "arm64-v8a": "4526b3bebc1d1f8d1ebe8851a748b854e196087189fdd38e82c2158a4b93138b"
+    "arm64-v8a": "c4ba4a908ed21e38327069a3c19666a89a802abb77868ef1d53e1bf94c85bd66"
   },
-  "publishedAt": "2026-10-04T19:13:28.662354+00:00",
-  "buildCommit": "c77f6fe22c86b0c3d5e578a13289ef8ad561885c"
+  "publishedAt": "2026-10-08T07:32:40.976872+00:00",
+  "buildCommit": "0842fe80bfb8a840cd1814b364d0e5b3eb877e13"
 }
