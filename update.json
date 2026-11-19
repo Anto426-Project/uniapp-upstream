@@ -4,16 +4,16 @@
   "minSupportedVersion": "2.0.3",
   "minSupportedVersionCode": 203,
   "mandatory": true,
-  "notes": "- UniSDK aggiornato alla versione 1.0.25, con messaggi di errore gestiti e localizzati dall’app.\n- Ripristinata la rotazione 3D delle card e del banner generico, rispettando Riduci movimento.\n- Download dedicati per Android, iOS, Windows, Linux (Debian/Ubuntu e Arch) e macOS.\n- In Tema, selettore degli otto preset Liquid Monet con Dissolvenza orizzontale predefinita e preferenze salvate.\n- Liquid Monet aggiornato alla versione 2.0.36: transizione unica tra pagine e ritorno indietro, senza animazioni locali delle schermate.",
-  "latestVersion": "2.0.15",
-  "latestVersionCode": 1172,
-  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.15%2B1172/androidApp-release.apk",
+  "notes": "- **Rinnovata l’interfaccia utente.** Dalla Home a Didattica, Trasporti, Rubrica e Impostazioni, le schermate sono state ridisegnate per mettere in risalto le azioni di ogni giorno. La nuova Home riunisce profilo e riepilogo della carriera, mette in evidenza appelli e scadenze e lascia spazio alle tue scorciatoie preferite e a un carosello di notizie da sfogliare.\n- Dal **Libretto** passi dagli esami sostenuti al Piano di studi con un tocco. **Appelli** riunisce le prenotazioni e lo Storico. In **Voti** trovi anche Statistiche e puoi passare dall’andamento reale della carriera alle proiezioni degli esami che scegli di simulare.\n- In **Trasporti** puoi filtrare le prenotazioni per andata e ritorno. Ogni prenotazione ha una card animata che apre il dettaglio al tocco. Sono state rimosse le pagine del catalogo e del titolo di viaggio. In **Rubrica** la ricerca parte da tutti i contatti e puoi restringerla alla categoria che ti interessa.\n- **Il tema si adatta al tuo stile.** Aurora, Mesh, Orbital e Radiant sono stati ridisegnati. Nell’anteprima puoi provare la tua tinta, anche in modalità chiara, e regolare l’intensità del vetro e il movimento dello sfondo. Le card interattive seguono il trascinamento in ogni direzione e l’indicatore delle schede resta visibile durante il cambio.\n- Corretto il crash all’apertura di **Tema** su Android. I cursori di personalizzazione funzionano con Material 3 Expressive.\n- Rinnovate le pagine di **Informazioni app**, **Progetto**, **Aggiornamenti** e **Changelog**. Ognuna ha il proprio spazio, dalle informazioni sulla versione alle novità dell’ultimo aggiornamento.\n- **Dieci lingue** tra cui scegliere nelle Impostazioni. UniApp ricorda la tua scelta al prossimo avvio.\n- Quando una **sessione** è confermata inattiva, UniApp la dimentica e ti chiede di accedere di nuovo. Le correzioni per le disconnessioni ripetute sono ancora in verifica nell’uso quotidiano.\n- La **Biblioteca** è temporaneamente disattivata. Su Android è stata migliorata la compatibilità con i dispositivi che usano pagine di memoria da 16 KB.",
+  "latestVersion": "2.0.20",
+  "latestVersionCode": 1178,
+  "downloadUrl": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.20%2B1178/androidApp-release.apk",
   "downloadUrlsByAbi": {
-    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.15%2B1172/androidApp-release.apk"
+    "arm64-v8a": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.20%2B1178/androidApp-release.apk"
   },
   "sha256ByAbi": {
-    "arm64-v8a": "c4ba4a908ed21e38327069a3c19666a89a802abb77868ef1d53e1bf94c85bd66"
+    "arm64-v8a": "4a5baa2d3fa567743b1b1642e9b6b7cb14adc56e7e267638115f1d954bce07ec"
   },
-  "publishedAt": "2026-10-08T07:32:40.976872+00:00",
-  "buildCommit": "0842fe80bfb8a840cd1814b364d0e5b3eb877e13"
+  "publishedAt": "2026-11-19T21:45:52.149114+00:00",
+  "buildCommit": "49e47e218925fbe95661c7ff80af6d9026046efe"
 }
