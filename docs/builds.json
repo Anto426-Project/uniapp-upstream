@@ -68,5 +68,22 @@
         "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.20%2B1178/androidApp-release.apk"
       }
     ]
+  },
+  {
+    "tag": "v2.0.21+1179",
+    "platform": "android",
+    "signing": "release-key",
+    "version": "2.0.21",
+    "sourceSha": "df89b9d2629530c30eba2e252b888dc28d1b9a1b",
+    "runId": "44756658544",
+    "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/v2.0.21+1179",
+    "downloads": [
+      {
+        "name": "androidApp-release.apk",
+        "sha256": "c27b62a07a2f3a1b7b1ab5289ae03ce31fbc4ce50babf01213cb4f78d96c4de2",
+        "os": "android",
+        "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.0.21%2B1179/androidApp-release.apk"
+      }
+    ]
   }
 ]
