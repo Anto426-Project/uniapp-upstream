@@ -1,15 +1,15 @@
 {
   "platform": "android",
-  "versionName": "2.1.1",
-  "versionCode": 1181,
+  "versionName": "2.1.2",
+  "versionCode": 1182,
   "signing": "release-key",
   "schema": 1,
   "sourceRepository": "Anto426-Project/uniapp",
-  "sourceSha": "4e76d74ef7bd08942f40d4f5f059ba2e50d5d996",
-  "runId": "45046075418",
-  "runNumber": "181",
+  "sourceSha": "8b8aac81d9f5eb6f3c2a362a539ce8b47ef87f60",
+  "runId": "45093678482",
+  "runNumber": "182",
   "files": {
-    "release/androidApp-release.apk": "7f07d7a700c2e2e5f5ffcbc41526f68b98bd64cbb721d782619d35bcdc45b9a0",
-    "release/output-metadata.json": "24614a7e36e3cc4e4d85ee86bfc7c82865a296940977c6ddeef8927618847446"
+    "release/androidApp-release.apk": "23aa4e9bf2e9e2870839991a0ab5fe0d4c8778df9213dba82c7fbcefdfa4b944",
+    "release/output-metadata.json": "a6aadd3716e3b2ae676db86f94940d91c30b72b6831bdbec46fc4b55024a06ec"
   }
 }
