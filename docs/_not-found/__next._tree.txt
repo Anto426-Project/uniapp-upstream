@@ -1,4 +1,4 @@
-:HL["/uniapp-upstream/_next/static/chunks/0_0ddee2x4z2g.css","style"]
+:HL["/uniapp-upstream/_next/static/chunks/38f7lkv8xowh5.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"-aNxNMcuywsPD9jxwRNF7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"SC0D_EsZT-g8yMjl5f8pc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
