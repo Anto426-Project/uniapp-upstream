@@ -26,30 +26,30 @@
       }
     },
     "ios": {
-      "tag": "ios-v2.1.2+1152-unsigned",
-      "version": "2.1.2",
-      "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/ios-v2.1.2+1152-unsigned",
+      "tag": "ios-v2.1.3+1153-unsigned",
+      "version": "2.1.3",
+      "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/ios-v2.1.3+1153-unsigned",
       "signing": "unsigned",
-      "runId": "45093683188",
-      "sourceSha": "8b8aac81d9f5eb6f3c2a362a539ce8b47ef87f60",
+      "runId": "45388602888",
+      "sourceSha": "09d554112474f5fbc69f16a1442ff665462ea905",
       "variants": {
         "ios": {
-          "version": "2.1.2",
-          "tag": "ios-v2.1.2+1152-unsigned",
-          "runId": "45093683188",
-          "sourceSha": "8b8aac81d9f5eb6f3c2a362a539ce8b47ef87f60",
+          "version": "2.1.3",
+          "tag": "ios-v2.1.3+1153-unsigned",
+          "runId": "45388602888",
+          "sourceSha": "09d554112474f5fbc69f16a1442ff665462ea905",
           "downloads": [
             {
-              "name": "UniApp-ios-2.1.2-1152-simulator.zip",
-              "sha256": "55ff46c5fb83c6783a55ec224914f330f359e76bdd8e2471463661f4c9a2b815",
+              "name": "UniApp-ios-2.1.3-1153-simulator.zip",
+              "sha256": "823434c72290777588c69c49f6f0ea6db88ca6b54dfc2269c1dca02ce31f96c1",
               "os": "ios",
-              "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/ios-v2.1.2%2B1152-unsigned/UniApp-ios-2.1.2-1152-simulator.zip"
+              "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/ios-v2.1.3%2B1153-unsigned/UniApp-ios-2.1.3-1153-simulator.zip"
             },
             {
-              "name": "UniApp-ios-2.1.2-1152-unsigned.ipa",
-              "sha256": "fd7a0353053e20118dc5b8bcfbc1db4087e9e9db7f9b222959960ea73ea1d622",
+              "name": "UniApp-ios-2.1.3-1153-unsigned.ipa",
+              "sha256": "b114b7d427e07211daf67d6c35e22699a2611a7f435fca901064639fe882d235",
               "os": "ios",
-              "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/ios-v2.1.2%2B1152-unsigned/UniApp-ios-2.1.2-1152-unsigned.ipa"
+              "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/ios-v2.1.3%2B1153-unsigned/UniApp-ios-2.1.3-1153-unsigned.ipa"
             }
           ]
         }
