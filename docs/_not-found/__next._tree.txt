@@ -1,4 +1,4 @@
 :HL["/uniapp-upstream/_next/static/chunks/38f7lkv8xowh5.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"OtVGsZ-YeGz_2a5CO_-HF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"6pLsShNVyNs8kXOm4mbOS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
