@@ -239,5 +239,28 @@
         "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.1.4%2B1184/androidApp-release.apk"
       }
     ]
+  },
+  {
+    "tag": "ios-v2.1.4+1154-unsigned",
+    "platform": "ios",
+    "signing": "unsigned",
+    "version": "2.1.4",
+    "sourceSha": "37aa1bce241bdf2ee2f59b16e01dca4ba998d361",
+    "runId": "45452203605",
+    "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/ios-v2.1.4+1154-unsigned",
+    "downloads": [
+      {
+        "name": "UniApp-ios-2.1.4-1154-simulator.zip",
+        "sha256": "b177b56928feaa7c3a36790354cb06c9b5e44d5c0d497258f0b027dce408845d",
+        "os": "ios",
+        "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/ios-v2.1.4%2B1154-unsigned/UniApp-ios-2.1.4-1154-simulator.zip"
+      },
+      {
+        "name": "UniApp-ios-2.1.4-1154-unsigned.ipa",
+        "sha256": "bcdfc66358efb8a2cc10f2732767f8c0ba4986e6a65fcfb8c5aa5e745ebe583a",
+        "os": "ios",
+        "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/ios-v2.1.4%2B1154-unsigned/UniApp-ios-2.1.4-1154-unsigned.ipa"
+      }
+    ]
   }
 ]
