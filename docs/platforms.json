@@ -2,24 +2,24 @@
   "schema": 1,
   "platforms": {
     "android": {
-      "tag": "v2.1.4+1184",
-      "version": "2.1.4",
-      "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/v2.1.4+1184",
+      "tag": "v2.1.5+1186",
+      "version": "2.1.5",
+      "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/tag/v2.1.5+1186",
       "signing": "release-key",
-      "runId": "45452189087",
-      "sourceSha": "37aa1bce241bdf2ee2f59b16e01dca4ba998d361",
+      "runId": "45705171758",
+      "sourceSha": "80b735c659ce9cafcd02fd313fedd6f7810923ca",
       "variants": {
         "android": {
-          "version": "2.1.4",
-          "tag": "v2.1.4+1184",
-          "runId": "45452189087",
-          "sourceSha": "37aa1bce241bdf2ee2f59b16e01dca4ba998d361",
+          "version": "2.1.5",
+          "tag": "v2.1.5+1186",
+          "runId": "45705171758",
+          "sourceSha": "80b735c659ce9cafcd02fd313fedd6f7810923ca",
           "downloads": [
             {
               "name": "androidApp-release.apk",
-              "sha256": "10417c41dc680f166bd0f3ccd08493715507706fcd19bf6d19f85de9820ff84a",
+              "sha256": "942a4c12a5db190a9d539e07f117cfb37928f5712c4eacd4bc1f513dd3403432",
               "os": "android",
-              "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.1.4%2B1184/androidApp-release.apk"
+              "url": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/v2.1.5%2B1186/androidApp-release.apk"
             }
           ]
         }
