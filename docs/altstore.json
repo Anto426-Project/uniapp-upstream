@@ -21,6 +21,15 @@
       "category": "education",
       "versions": [
         {
+          "version": "2.1.5",
+          "date": "2026-01-01",
+          "localizedDescription": "UniApp 2.1.5 per iOS (ios-v2.1.5+1155-unsigned).",
+          "downloadURL": "https://github.com/Anto426-Project/uniapp-upstream/releases/download/ios-v2.1.5%2B1155-unsigned/UniApp-ios-2.1.5-1155-unsigned.ipa",
+          "size": 25000000,
+          "sha256": "7684e9488946e88e1a2a3ecf20e5d8e089fec0f6b930e70e652e22f2eadf803c",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.1.4",
           "date": "2026-01-01",
           "localizedDescription": "UniApp 2.1.4 per iOS (ios-v2.1.4+1154-unsigned).",
